@@ -1,7 +1,7 @@
 ---
 type: source
 created: 2026-11-09
-area: [security]
+area: [security, maintenance, architecture, computing]
 tags: [apple]
 source: https://support.apple.com/guide/security/welcome/web
 publish: true
@@ -34,3 +34,6 @@ publish: true
 
 ## 어디에 쓸까
 - [[13 보안]]
+- [[07 유지보수]]
+- [[02 아키텍처]]
+- [[16 컴퓨팅 기초]]
