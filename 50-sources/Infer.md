@@ -1,7 +1,7 @@
 ---
 type: source
 created: 2026-11-09
-area: [quality, construction]
+area: [quality, construction, math]
 tags: [meta]
 source: https://fbinfer.com/docs/about-Infer
 publish: true
@@ -32,3 +32,4 @@ publish: true
 ## 어디에 쓸까
 - [[12 품질]]
 - [[04 구축]]
+- [[17 수학 기초]]
