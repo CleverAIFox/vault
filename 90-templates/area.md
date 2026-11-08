@@ -25,4 +25,16 @@ publish: false
 | 넷플릭스(보충) |  | [[ ]] |
 
 ## 이 영역의 노트
-(Bases 표 보기로 area 값이 이 영역인 노트를 자동으로 모은다)
+```base
+filters:
+  and:
+    - area.contains("영역값")
+    - type != "area"
+views:
+  - type: table
+    name: 이 영역의 노트
+    order:
+      - file.name
+      - type
+      - created
+```
