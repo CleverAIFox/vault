@@ -12,7 +12,7 @@ publish: true
 
 ## 출처
 - 저자·기관: Philip Fisher-Ogden, Greg Burrell, Dianne Marsh, Netflix Technology Blog. 이 노트는 InfoQ 보도와 QCon SF 2018 발표 자료로 확인했다(원문 접근 실패)
-- 날짜: 2018-05(확인 필요)
+- 날짜: 2018-05
 - 링크: https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249
 
 ## 핵심 세 줄

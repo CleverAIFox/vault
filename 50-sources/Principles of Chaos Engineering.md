@@ -1,7 +1,7 @@
 ---
 type: source
 created: 2026-11-09
-area: [testing, operations, engineering]
+area: [testing, operations, engineering, quality]
 tags: [netflix]
 source: https://principlesofchaos.org/
 publish: true
@@ -32,3 +32,4 @@ publish: true
 - [[05 테스트]]
 - [[06 운영]]
 - [[18 공학 기초]]
+- [[12 품질]]
