@@ -1,7 +1,7 @@
 ---
 type: source
 created: 2026-11-09
-area: [construction, testing, maintenance, configuration, quality, practice]
+area: [construction, testing, maintenance, configuration, quality, practice, process]
 tags: [google]
 source: https://abseil.io/resources/swe-book
 publish: true
@@ -37,3 +37,4 @@ publish: true
 - [[08 형상 관리]]
 - [[12 품질]]
 - [[14 전문가 실무]]
+- [[10 공학 프로세스]]

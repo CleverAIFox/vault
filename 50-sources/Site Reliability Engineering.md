@@ -1,7 +1,7 @@
 ---
 type: source
 created: 2026-11-09
-area: [operations, quality, management, engineering]
+area: [operations, quality, management, engineering, economics]
 tags: [google]
 source: https://sre.google/sre-book/table-of-contents/
 publish: true
@@ -26,6 +26,7 @@ publish: true
 - 3부 실무: 알림, 온콜, 문제 해결, 비상 대응, 사건 관리, 포스트모템 문화, 신뢰성 테스트, 부하 분산, 과부하·연쇄 장애, 분산 합의, 데이터 파이프라인, 데이터 무결성, 대규모 출시.
 - 4부 관리: 온콜 교육, 인터럽트 다루기, 운영 과부하 회복, 소통과 협업.
 - 5부 결론과 부록: 다른 산업의 교훈, 가용성 표, 포스트모템 예시, 출시 체크리스트.
+- 경제적 관점: 안정성을 100%로 올리는 비용은 급격히 커진다. 목표치를 넘는 여유분(오류 예산)을 새 기능 출시에 쓰는 식으로 안정성과 속도를 저울질한다.
 
 ## 내 생각
 - SRE 책 시리즈 중 첫 책이다. Building Secure & Reliable Systems, Site Reliability Workbook도 무료로 읽을 수 있다. 2판은 유료다.
@@ -36,3 +37,4 @@ publish: true
 - [[12 품질]]
 - [[09 공학 관리]]
 - [[18 공학 기초]]
+- [[15 공학 경제]]
