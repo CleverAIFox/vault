@@ -1,7 +1,7 @@
 ---
 type: source
 created: 2026-11-09
-area: [operations, maintenance]
+area: [operations, maintenance, configuration]
 tags: [tesla]
 source: https://www.tesla.com/support/software-updates
 publish: true
@@ -33,3 +33,4 @@ publish: true
 ## 어디에 쓸까
 - [[06 운영]]
 - [[07 유지보수]]
+- [[08 형상 관리]]

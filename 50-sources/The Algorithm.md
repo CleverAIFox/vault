@@ -1,7 +1,7 @@
 ---
 type: source
 created: 2026-11-09
-area: [requirements, process, management, economics]
+area: [requirements, process, management, economics, methods]
 tags: [tesla]
 source: https://fortune.com/2023/09/13/elon-musk-management-manufacturing-philosophy-the-algorithm
 publish: true
@@ -36,3 +36,4 @@ publish: true
 - [[10 공학 프로세스]]
 - [[09 공학 관리]]
 - [[15 공학 경제]]
+- [[11 모델과 방법]]
