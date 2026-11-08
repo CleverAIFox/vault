@@ -1,7 +1,7 @@
 ---
 type: source
 created: 2026-11-09
-area: [construction, computing, process]
+area: [construction, computing, process, configuration, math, engineering]
 tags: [nvidia]
 source: https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/
 publish: true
@@ -26,6 +26,7 @@ publish: true
 - 최적화(Optimize): 바꿀 때마다 테스트·검증하며 조금씩 개선한다.
 - 배포(Deploy): 일부만 빨라진 버전이라도 일찍 내보내고 주기를 다시 돈다.
 - 권고마다 우선순위(높음·낮음 등)를 붙여 무엇부터 할지 알려 준다.
+- 그 밖의 장: 정답 얻기(부동소수점 정밀도와 결과 차이), 성능 지표(시간·대역폭 측정), 배포와 호환성(CUDA 버전 호환 개발 지침).
 
 ## 내 생각
 - 엔비디아는 회사 공학 프로세스를 공개하지 않는다. 대신 개발자 문서에 담긴 방법론(APOD)을 관점으로 쓴다.
@@ -35,3 +36,6 @@ publish: true
 - [[04 구축]]
 - [[16 컴퓨팅 기초]]
 - [[10 공학 프로세스]]
+- [[08 형상 관리]]
+- [[17 수학 기초]]
+- [[18 공학 기초]]
