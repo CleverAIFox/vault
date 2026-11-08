@@ -1,7 +1,7 @@
 ---
 type: source
 created: 2026-11-09
-area: [process, design, testing, configuration, operations]
+area: [process, design, testing, configuration, operations, requirements, construction, management, quality, practice]
 tags: [microsoft]
 source: https://microsoft.github.io/code-with-engineering-playbook/
 publish: true
@@ -38,3 +38,8 @@ publish: true
 - [[05 테스트]]
 - [[08 형상 관리]]
 - [[06 운영]]
+- [[01 요구사항]]
+- [[04 구축]]
+- [[09 공학 관리]]
+- [[12 품질]]
+- [[14 전문가 실무]]
