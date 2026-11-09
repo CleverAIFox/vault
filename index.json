@@ -452,6 +452,80 @@
    ]
   },
   {
+   "path": "20-concepts/만든 사람이 운영한다.md",
+   "title": "만든 사람이 운영한다",
+   "type": "concept",
+   "area": [
+    "operations",
+    "process",
+    "practice"
+   ],
+   "tags": [],
+   "source": "[[Full Cycle Developers at Netflix]]",
+   "created": "2026-11-09",
+   "publish": true,
+   "summary": "시스템을 개발한 팀이 배포·운영·장애 대응·지원까지 책임지는 방식. 대신 중앙 팀이 공용 도구(paved road)로 그 짐을 덜어 준다.",
+   "links": [
+    "06 운영",
+    "10 공학 프로세스",
+    "14 전문가 실무",
+    "Amazon Leadership Principles",
+    "Full Cycle Developers at Netflix",
+    "Netflix Culture",
+    "Site Reliability Engineering",
+    "Spinnaker",
+    "The Show Must Go On: Securing Netflix Studios At Scale",
+    "Working Backwards"
+   ]
+  },
+  {
+   "path": "20-concepts/비난 없는 사후 분석.md",
+   "title": "비난 없는 사후 분석",
+   "type": "concept",
+   "area": [
+    "operations",
+    "quality",
+    "engineering"
+   ],
+   "tags": [],
+   "source": "[[Correction of Error]]",
+   "created": "2026-11-09",
+   "publish": true,
+   "summary": "장애가 끝난 뒤 누구 탓인지가 아니라 왜 일어났는지를 묻고, 시간순 기록·근본 원인·재발 방지 조치를 문서로 남기는 일.",
+   "links": [
+    "06 운영",
+    "12 품질",
+    "18 공학 기초",
+    "Building Secure and Reliable Systems",
+    "Correction of Error",
+    "Netflix Culture",
+    "Site Reliability Engineering"
+   ]
+  },
+  {
+   "path": "20-concepts/점진 배포.md",
+   "title": "점진 배포",
+   "type": "concept",
+   "area": [
+    "operations",
+    "configuration"
+   ],
+   "tags": [],
+   "source": "[[Automating safe, hands-off deployments]]",
+   "created": "2026-11-09",
+   "publish": true,
+   "summary": "새 버전을 한 번에 전부 내보내지 않고, 작은 범위부터 단계적으로 넓히며 단계마다 신호를 보고 멈추거나 되돌리는 배포 방식.",
+   "links": [
+    "06 운영",
+    "08 형상 관리",
+    "AWS Well-Architected Framework",
+    "Automating safe, hands-off deployments",
+    "Rapid release at massive scale",
+    "Spinnaker",
+    "Tesla Software Updates"
+   ]
+  },
+  {
    "path": "50-sources/AWS Well-Architected Framework.md",
    "title": "AWS Well-Architected Framework",
    "type": "source",
